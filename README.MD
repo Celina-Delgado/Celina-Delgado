@@ -1,5 +1,7 @@
-🤠 Howdy my name is Celina
-👩‍💻 I'm a part of the program code chica++
-💆🏽 I multi-task way to much but hey as they say "don't fix what's not broken"
-Favorite foods are:🍕 🌮 🍟 🍩
-👸🏽 Pronuouns:(she/her)
+<ul>
+  <li>🤠 Howdy my name is Celina</li>
+  <li>👩‍💻 I'm a part of the program code chica++</li>
+  <li>💆🏽 I multi-task way to much but hey as they say "don't fix what's not broken"</li>
+  <li>Favorite foods are:🍕 🌮 🍟 🍩</li>
+  <li>👸🏽 Pronuouns:(she/her)</li>
+</ul>
