@@ -9,7 +9,7 @@
   <ul> 
   <li>Key club(10th grade Representative)</li>
   <li>Yearbook club(I am the editor-in-cheif) </li>
-  <li>Student Council</li>
+  <li>Tennis Club </li>
   <li>Drama Club</li>
   </ul>
   
