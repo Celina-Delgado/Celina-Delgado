@@ -1,16 +1,7 @@
-<h1>🤠 Howdy my name is Celina</h1>
+<h1>Celina Delgado </h1>
 <ul>
-  <li>💆🏽 I multi-task way too much but hey as they say "don't fix what's not broken"</li>
-  <li>Favorite foods are:🍕 🌮 🍟 🍩</li>
-  <li>👸🏽 Pronuouns:(she/her)</li>
+  <li>Pronouns:(she/her)</li>
+  <li>Clark University Student</li>
 </ul>
-
-<h3>clubs I'm in!!</h3>
-  <ul> 
-  <li>Key club(10th grade Representative)</li>
-  <li>Yearbook club(I am the editor-in-cheif) </li>
-  <li>Tennis Club </li>
-  <li>Drama Club</li>
-  </ul>
    
-   <h2>#codechicaforlife 💜</h2>
+<h2>#codechicaforlife 💜</h2>
