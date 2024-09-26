@@ -4,4 +4,4 @@
   <li>Freshmen studying computer science at Clark University</li>
 </ul>
    
-<h2>#codechicaforlife 💜</h2>
+<h2>#codechicaalumni 💜</h2>
